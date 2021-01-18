@@ -2,17 +2,16 @@
 
 [LinkedIn](https://www.linkedin.com/in/22shatakshi)   [GitHub](https://github.com/22shatakshi)
 
-22shatakshi@gmail.com   
+Mail: 22shatakshi@gmail.com   
 
 ## EDUCATION
 
-### Delhi Public School, R.K.Puram
+- ### Delhi Public School, R.K.Puram 
+   _April 2013 - May 2020_
 
-_April 2013 - May 2020_
+   SUBJECTS: Computer Science, Mathematics, Physics, Chemistry, English
 
-SUBJECTS: Computer Science, Mathematics, Physics, Chemistry, English
-
-OVERALL FINAL PERCENTAGE: 88.6%
+   FINAL PERCENTAGE: 88.6%
 
 ## COURSES
 
