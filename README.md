@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Shatakshi 
+# Singh
+[LinkedIn](https://www.linkedin.com/in/22shatakshi/)  [GitHub](https://github.com/22shatakshi)  [Mail](22shatakshi@gmail.com)
 
-You can use the [editor on GitHub](https://github.com/22shatakshi/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## EDUCATION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Delhi Public School, R.K.Puram**
+_April 2013 - May 2020_
+SUBJECTS: Computer Science, Mathematics, Physics, Chemistry, English
+OVERALL FINAL PERCENTAGE: 88.6%
 
-### Markdown
+## COURSES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **CS50 Introduction to Computer Science**
+_Dec 2020 - Jan 2021_
 
-```markdown
-Syntax highlighted code block
+- **Python Specialisation by University of Michigan(Non-Credit)**
+_Oct 2020 - Dec 2020_
 
-# Header 1
-## Header 2
-### Header 3
+## SKILLS
 
-- Bulleted
-- List
+- **Programming**
+C++, Python, HTML, SQL
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/22shatakshi/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Languages**
+English, Hindi, French(Elementary)
