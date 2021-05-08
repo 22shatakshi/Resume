@@ -9,7 +9,7 @@ Mail: 22shatakshi@gmail.com
 - ### Purdue Univeristy, West Lafeyette
    _August 2021 - May 2025_
    
-   MAJOR: Bachelor's of Science - Data Science
+   Bachelor's of Science: Major - Data Science
    
 - ### Delhi Public School, R.K.Puram 
    _April 2013 - May 2020_
