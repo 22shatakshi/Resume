@@ -1,6 +1,8 @@
 # Shatakshi Singh
 
-[LinkedIn](https://www.linkedin.com/in/22shatakshi)   [GitHub](https://github.com/22shatakshi)
+[LinkedIn](https://www.linkedin.com/in/22shatakshi)
+
+[GitHub](https://github.com/22shatakshi)
 
 Mail: 22shatakshi@gmail.com   
 
