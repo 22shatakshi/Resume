@@ -19,7 +19,13 @@ Mail: 22shatakshi@gmail.com
    SUBJECTS: Computer Science, Mathematics, Physics, Chemistry, English
 
    FINAL PERCENTAGE: 88.6%
-
+   
+## PROJECTS
+- ### Twitter Bot
+   A Twitter Bot that performs automated actions like tweeting (with & without media), replying to tweets and mentions, liking and retweeting mentions, following back followers, etc.
+   
+   Language(s) Used: Python
+     
 ## COURSES
 
 - **CS50 Introduction to Computer Science**
@@ -33,7 +39,7 @@ Mail: 22shatakshi@gmail.com
 ## SKILLS
 
 - **Programming**
-C++, Python, HTML, SQL
+C++, Python, Java, HTML, SQL
 
 - **Languages**
 English, Hindi, French(Elementary)
