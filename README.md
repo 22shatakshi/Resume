@@ -26,7 +26,7 @@ Mail: 22shatakshi@gmail.com
    
    Language(s) Used: Python
      
-## COURSES
+## ONLINE COURSES
 
 - **CS50 Introduction to Computer Science**
 
